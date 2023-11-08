@@ -1,0 +1,42 @@
+.game{
+    text-align: center;
+}
+.drag-and-drop {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.score {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.droppable {
+    width: 100px;
+    height: 130px;
+    border: 2px dashed #ccc;
+    margin: 5px;
+}
+
+.flower-draggable {
+    width: 100px;
+    height: 130px;
+    margin: 10px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.draggable-items {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}

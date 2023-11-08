@@ -1,0 +1,87 @@
+/* home page */
+
+.slogan{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin: auto
+}
+.home-photo{
+    height: 500px;
+}
+
+.card{
+    margin: 3rem;
+}
+
+/* about us page */
+
+
+.about-us-photo{
+    height: 500px;
+}
+.about-us-content{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+.about-us-content>h1{
+    font-style: italic;
+    text-align: center;
+}
+
+
+/* countdown */
+
+.countdown-container {
+    background-color: rgb(249, 205, 229);
+    text-align: center;
+    margin-top: 60px;
+    font-size: 26px;
+    padding: 32px 0 ;
+}
+
+#countdown {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(249, 205, 229);
+    color: black;
+}
+
+
+/* price page */
+
+.price-page-header{
+    text-align: center;
+    margin: 60px;
+}
+.flowers-photo{
+    height: 600px;
+    margin: 10px;
+}
+.flowers-price{
+    color: black;
+}
+.link-to-more{
+    text-align: center;
+    margin: 30px;
+    font-size: 32px;
+}
+.comment{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.comment>a{
+    color: black;
+}
+
+/* contact page */
+
+.contact-page{
+    background-color: rgb(249, 205, 229);
+}
+.info{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 24px;
+}

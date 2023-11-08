@@ -1,0 +1,25 @@
+/* navigation container */
+.navbar{
+    background-color: rgb(249, 205, 229);
+}
+.collapse{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    width: 150px; 
+    height: auto; 
+    border-radius: 60%;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-link {
+    color: black;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color:  rgb(249, 205, 229);
+    background-color:  rgb(0, 0, 0);
+}
+
